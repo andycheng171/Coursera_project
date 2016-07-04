@@ -1,2 +1,5 @@
-# Coursera_project
-# Coursera_project
+# Exploratory Data Analysis
+
+This is my repository for the Coursera's course "Exploratory Data Analysis". 
+
+
